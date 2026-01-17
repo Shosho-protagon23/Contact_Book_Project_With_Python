@@ -1,0 +1,78 @@
+PANDUAN PENGGUNAAN APLIKASI BUKU KONTAK
+(Contact Book Application Manual)
+
+1. PENDAHULUAN
+   Aplikasi Buku Kontak ini dirancang untuk membantu Anda menyimpan dan mengelola informasi kontak (Nama, Nomor Telepon, dan Email) dengan antarmuka yang mudah digunakan dan berbagai pilihan tema.
+
+2. FITUR UTAMA
+   - Manajemen Kontak: Tambah, Edit, dan Hapus kontak.
+   - Pencarian Instan: Cari kontak berdasarkan nama, nomor telepon, atau email.
+   - Fitur Pin (Sematkan): Sematkan kontak penting agar selalu berada di posisi teratas daftar (Maksimal 5 kontak).
+   - Kustomisasi Tema: Tersedia 8 pilihan tema warna yang menarik.
+   - Penyimpanan Otomatis: Data kontak dan pengaturan tema tersimpan secara otomatis.
+
+3. CARA PENGGUNAAN
+
+   A. Menambah Kontak Baru (Add)
+      1. Masukkan Nama pada kolom "Name".
+      2. Masukkan Nomor Telepon pada kolom "Phone".
+      3. Masukkan Email pada kolom "Email".
+      4. Klik tombol "Add".
+      5. Kontak baru akan muncul di daftar sebelah kiri.
+      Catatan: Nama dan setidaknya satu kontak (telepon/email) wajib diisi. Nama tidak boleh duplikat.
+
+   B. Mengedit Kontak (Edit)
+      1. Pilih kontak yang ingin diubah dari daftar (Listbox).
+      2. Data kontak akan otomatis terisi di kolom input sebelah kanan.
+      3. Lakukan perubahan data yang diinginkan.
+      4. Klik tombol "Edit".
+      5. Data kontak akan diperbarui.
+
+   C. Menghapus Kontak (Delete)
+      1. Pilih kontak yang ingin dihapus dari daftar.
+      2. Klik tombol "Delete".
+      3. Akan muncul jendela konfirmasi, pilih "Yes" untuk menghapus.
+
+   D. Menyematkan Kontak (Pin/Unpin)
+      1. Pilih kontak yang ingin Anda prioritaskan.
+      2. Klik tombol "Pin".
+      3. Nama kontak akan ditandai dengan simbol bintang (★) dan pindah ke urutan teratas.
+      4. Untuk melepas sematan, pilih kontak berbintang tersebut lalu klik tombol "Unpin".
+      Catatan: Anda hanya dapat menyematkan maksimal 5 kontak.
+
+   E. Mencari Kontak (Search)
+      1. Ketik kata kunci (nama, telepon, atau email) pada kolom "Search:" di atas daftar kontak.
+      2. Daftar kontak akan otomatis menyaring hasil yang cocok secara real-time.
+      3. Hapus teks pencarian untuk menampilkan kembali seluruh kontak.
+
+   F. Membersihkan Kolom Input (Clear)
+      1. Klik tombol "Clear" untuk mengosongkan semua kolom isian (Nama, Phone, Email) dan membatalkan pilihan kontak di daftar.
+
+   G. Mengganti Tema (Themes)
+      1. Klik menu "Themes" yang terletak di bagian paling atas aplikasi (Menu Bar).
+      2. Pilih salah satu tema yang tersedia:
+         - Default Blue
+         - Ocean Breeze
+         - Forest Green
+         - Purple Sunset
+         - Dark Mode
+         - Sunset Orange
+         - Pink Blossom
+         - Teal Dream
+      3. Tampilan warna aplikasi akan langsung berubah sesuai pilihan Anda.
+
+   H. Keluar Aplikasi (Exit)
+      1. Klik tombol "Exit" di bagian bawah kanan untuk menutup aplikasi.
+      2. Konfirmasi dengan memilih "Yes".
+
+4. TIM PENGEMBANG (CREDITS)
+   Aplikasi ini dipersembahkan oleh:
+   - Faga Imam Wicaksono (Developer)
+   - Abullah Affan (Concept Creator)
+   - Sabrian Harto Winata (Tester)
+   - Fatahul Fadlan (Tester)
+
+5. CATATAN TEKNIS
+   - File data kontak disimpan di "contacts.json".
+   - Pengaturan tema disimpan di "contact_book_settings.json".
+   - Jangan menghapus file-file tersebut secara manual jika tidak ingin kehilangan data.
