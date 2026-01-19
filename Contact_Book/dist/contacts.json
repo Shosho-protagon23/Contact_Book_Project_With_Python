@@ -1,0 +1,55 @@
+{
+    "contacts": {
+        "Patricia Zulaika": {
+            "phone": "+623371716446",
+            "email": "patricia.zulaika@index.ua"
+        },
+        "Rahmi Suartini": {
+            "phone": "+62871140389",
+            "email": "rahmi.suartini@musician.com"
+        },
+        "Cut Aisyah Mansur, S.Ked": {
+            "phone": "+62326992798",
+            "email": "cut_aisyah57@usa.net"
+        },
+        "Balamantri Sitorus, S.E.I": {
+            "phone": "+620957691748",
+            "email": "balamantri_sitorus71@trash2010.com"
+        },
+        "Harsana Prasetya": {
+            "phone": "+6207776759877",
+            "email": "harsanaprasetya43@fastacura.com"
+        },
+        "dr. Imam Purwanti, M.TI.": {
+            "phone": "+62188978876",
+            "email": "dr_imam36@mail2qatar.com"
+        },
+        "H. Jinawi Nurdiyanti": {
+            "phone": "+624267752961",
+            "email": "jinawi_nurdiyanti@fightallspam.com"
+        },
+        "Cut Mutia Anggriawan": {
+            "phone": "+6205033373267",
+            "email": "cut_mutia@llandudno.com"
+        },
+        "Dt. Harjasa Prakasa": {
+            "phone": "+626867618358",
+            "email": "dt_harjasa@1webave.com"
+        },
+        "Upik Hariyah": {
+            "phone": "+62954967492",
+            "email": "upik.hariyah14@mycleaninbox.net"
+        },
+        "faga": {
+            "phone": "11111",
+            "email": "faga@yahoo.net"
+        }
+    },
+    "pinned": [
+        "Cut Aisyah Mansur, S.Ked",
+        "Dt. Harjasa Prakasa",
+        "Cut Mutia Anggriawan",
+        "H. Jinawi Nurdiyanti",
+        "dr. Imam Purwanti, M.TI."
+    ]
+}
